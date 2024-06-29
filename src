@@ -1,0 +1,29 @@
+audiozen/
+│
+├── flutter_app/
+│   ├── lib/
+│   │   ├── main.dart           # Main entry point for Flutter app
+│   │   ├── screens/            # Directory for Flutter screens
+│   │   │   └── home_screen.dart    # Example Flutter screen
+│   │   ├── models/             # Directory for data models
+│   │   │   └── audio_model.dart    # Example data model
+│   │   └── services/           # Directory for services (API calls, etc.)
+│   │       └── api_service.dart    # Example API service
+│   ├── assets/                # Directory for Flutter assets (images, fonts, etc.)
+│   ├── test/                  # Directory for Flutter tests (optional)
+│   └── pubspec.yaml           # Flutter project configuration file
+│
+└── django_backend/
+    ├── manage.py             # Django management script
+    ├── audiozen/             # Django project directory
+    │   ├── settings.py       # Django settings file
+    │   ├── urls.py           # Django project-level URL configuration
+    │   └── wsgi.py           # Django WSGI config for deployment
+    ├── api/                  # Django app for API endpoints
+    │   ├── __init__.py
+    │   ├── admin.py
+    │   ├── models.py         # Django models for database interactions
+    │   ├── serializers.py    # Django serializers for API responses
+    │   ├── urls.py           # Django app-level URL configuration
+    │   └── views.py          # Django views for API endpoints
+    └── requirements.txt      # Python dependencies for Django project
