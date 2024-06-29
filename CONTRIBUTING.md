@@ -30,5 +30,37 @@ We welcome code contributions to AudioEase. To contribute code:
 
 2. **Clone Your Fork:** Clone the repository from your account to your local machine:
    ```sh
-   git clone https://github.com/your-username/background-audio-app.git
+   git clone https://github.com/Use_your_username/AudioZen.git
    cd background-audio-app
+3. **Create a Branch:** Create a new branch for your feature or bug fix:
+   ```sh
+   git checkout -b feature/your-feature-name
+
+4. **Make Changes:** Write your code and make the necessary changes.
+
+5. **Test Your Changes:** Test your changes locally to ensure they work as expected.
+
+6. **Commit Your Changes:** Commit your changes with a descriptive commit message:
+
+   ```sh
+   git add .
+   git commit -m "Add feature: brief description of your changes"
+
+7. **Push to Your Fork:** Push your changes to your GitHub repository:
+   ```sh
+   git push origin feature/your-feature-name
+   
+8. **Open a Pull Request:** Go to the AudioEase repository on GitHub and open a pull request from your forked branch to the main branch.
+
+## Code Style
+<div>· Follow the existing code style and conventions used in the project.</div>
+<div>· Write clear, concise, and well-documented code.</div>
+<div>· Make sure your code is properly tested before submitting a pull request.</div>
+
+## Community Guidelines
+<div>· Be respectful and considerate towards others.</div>
+<div>· Provide constructive feedback and support to fellow contributors.</div>
+<div>· Help maintain a positive and inclusive atmosphere for everyone.</div>
+
+## License
+By contributing to AudioEase, you agree that your contributions will be licensed under the MIT License.
