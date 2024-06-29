@@ -41,7 +41,7 @@ AudioZen is designed for users who appreciate uninterrupted audio enjoyment on t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/shyama7004/AudioZen.git
+   git clone https://github.com/use_your_user_name/AudioZen.git
    cd audio-zen
 Set up your development environment:
 Install Android Studio or your preferred IDE.
