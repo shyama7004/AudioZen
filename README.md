@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=" " alt="AudioZen Logo" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/shyama7004/AudioZen/main/AudioZen%20logo.jpg" alt="AudioZen Logo" width="200" height="200">
 </p>
 
 <h1 align="center">AudioZen</h1>
@@ -35,13 +35,13 @@ AudioZen is designed for users who appreciate uninterrupted audio enjoyment on t
 
 ### Prerequisites
 
-- Android 6.0 (Marshmallow) or higher.
+- Android 6.0 or higher.
 
 ### Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/audio-zen.git
+   git clone https://github.com/shyama7004/AudioZen.git
    cd audio-zen
 Set up your development environment:
 Install Android Studio or your preferred IDE.
@@ -55,13 +55,14 @@ Test your changes thoroughly.
 Open a pull request with a detailed description of your contributions.
 Please read CONTRIBUTING.md for more details on how to contribute to this project.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-Have questions, suggestions, or feedback? Reach out to us:
+## Contact
+Have questions, suggestions, or feedback? 
+Reach out to us:
 
-Email: your-email@example.com
-Twitter: @AudioZenApp
-GitHub Issues: Report a Bug or Request a Feature
+<p>Email: sujatabisoyi@gmail.com</p>
+<p>Twitter: https://x.com/shyama7004</p>
+<p>GitHub Issues: Report a Bug or Request a Feature</p>
    
