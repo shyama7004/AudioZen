@@ -12,7 +12,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#why-audiozen">Why AudioZen?</a> •
   <a href="#installation">Installation</a> •
-  <a href="#contributing">Contributing</a> •
+  <a href="https://github.com/shyama7004/AudioZen/blob/main/CONTRIBUTING.md">Contributing</a> •
   <a href="#license">License</a> •
   <a href="#contact">Contact</a>
 </p>
