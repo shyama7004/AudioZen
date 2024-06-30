@@ -63,4 +63,4 @@ We welcome code contributions to AudioEase. To contribute code:
 <div>· Help maintain a positive and inclusive atmosphere for everyone.</div>
 
 ## License
-By contributing to AudioEase, you agree that your contributions will be licensed under the MIT License.
+By contributing to AudioEase, you agree that your contributions will be licensed under the [MIT License](https://github.com/shyama7004/AudioZen/blob/main/LICENSE).
