@@ -2,13 +2,13 @@
 
 👋 Welcome! We're thrilled that you'd like to contribute to AudioZen. Whether you're fixing a bug, improving an existing feature, or adding a new feature, your contributions are welcome!
 
-To ensure a smooth collaboration, please review the guidelines below before contributing. Thank you for helping make AudioEase even better!
+To ensure a smooth collaboration, please review the guidelines below before contributing. Thank you for helping make AudioZen even better!
 
 ## How to Contribute
 
 ### Reporting Bugs
 
-If you encounter a bug or issue with AudioEase, please follow these steps to report it:
+If you encounter a bug or issue with AudioZen, please follow these steps to report it:
 
 1. **Check Existing Issues:** Look through existing [issues](https://github.com/shyama7004/AudioZen/issues) to see if the bug has already been reported.
 
@@ -24,9 +24,9 @@ Have an idea for a new feature or enhancement? Here's how you can request it:
 
 ### Contributing Code
 
-We welcome code contributions to AudioEase. To contribute code:
+We welcome code contributions to AudioZen. To contribute code:
 
-1. **Fork the Repository:** Fork the AudioEase repository to your GitHub account.
+1. **Fork the Repository:** Fork the AudioZen repository to your GitHub account.
 
 2. **Clone Your Fork:** Clone the repository from your account to your local machine:
    ```sh
@@ -50,7 +50,7 @@ We welcome code contributions to AudioEase. To contribute code:
    ```sh
    git push origin feature/your-feature-name
    
-8. **Open a Pull Request:** Go to the AudioEase repository on GitHub and open a pull request from your forked branch to the main branch.
+8. **Open a Pull Request:** Go to the AudioZen repository on GitHub and open a pull request from your forked branch to the main branch.
 
 ## Code Style
 <div>· Follow the existing code style and conventions used in the project.</div>
@@ -63,4 +63,4 @@ We welcome code contributions to AudioEase. To contribute code:
 <div>· Help maintain a positive and inclusive atmosphere for everyone.</div>
 
 ## License
-By contributing to AudioEase, you agree that your contributions will be licensed under the [MIT License](https://github.com/shyama7004/AudioZen/blob/main/LICENSE).
+By contributing to AudioZen, you agree that your contributions will be licensed under the [MIT License](https://github.com/shyama7004/AudioZen/blob/main/LICENSE).
