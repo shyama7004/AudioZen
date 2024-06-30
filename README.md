@@ -46,6 +46,23 @@ AudioZen is designed for users who appreciate uninterrupted audio enjoyment on t
    ```bash
    git clone https://github.com/use_your_user_name/AudioZen.git
    cd audio-zen
+
+2. **Backend Setup (Django):**
+    ```sh
+    cd backend
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    pip install -r requirements.txt
+    python manage.py migrate
+    python manage.py runserver
+    ```
+
+3. **Frontend Setup (Flutter):**
+    ```sh
+    cd ../frontend
+    flutter pub get
+    flutter run
+    ```
 Set up your development environment:
 Install Android Studio or your preferred IDE.
 Open the project and build/run on your Android device.
