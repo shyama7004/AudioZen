@@ -53,10 +53,10 @@ Fork the repository and create your branch from main.
 Make your changes and ensure they work as expected.
 Test your changes thoroughly.
 Open a pull request with a detailed description of your contributions.
-Please read CONTRIBUTING.md for more details on how to contribute to this project.
+Please read [CONTRIBUTING.md](https://github.com/shyama7004/AudioZen/blob/main/CONTRIBUTING.md) for more details on how to contribute to this project.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/shyama7004/AudioZen/blob/main/LICENSE). See the [LICENSE](https://github.com/shyama7004/AudioZen/blob/main/LICENSE) file for details.
 
 ## Contact
 Have questions, suggestions, or feedback? 
