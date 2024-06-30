@@ -31,13 +31,16 @@
 
 AudioZen is designed for users who appreciate uninterrupted audio enjoyment on their mobile devices. Whether commuting, working out, or relaxing, AudioZen ensures your favorite audio content is always at your fingertips, without the need to keep your screen on.
 
+
+## Prerequisites
+
+  [![Flutter](https://img.shields.io/badge/Flutter-Flutter.com-8B0000?style=for-the-badge)](https://flutter.dev/docs/get-started/install)
+  [![Django](https://img.shields.io/badge/Django-Django.com-00008B?style=for-the-badge)](https://www.djangoproject.com/download/)
+  [![Python](https://img.shields.io/badge/Python-Python.com-013220?style=for-the-badge)](https://www.python.org/downloads/)
+  [![pip](https://img.shields.io/badge/pip-pip.com-8B8000?style=for-the-badge)](https://pip.pypa.io/en/stable/installation/)
+
+
 ## Installation
-
-### Prerequisites
-
-- Android 6.0 or higher.
-
-### Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -65,6 +68,7 @@ Reach out to us:
 [![Mail](https://img.shields.io/badge/Mail-sujatabisoyi@gmail.com-6b5b95?style=for-the-badge)](sujatabisoyi@gmail.com)
 
 [![Twitter Link](https://img.shields.io/badge/Twitter:-https://x.com/shyama7004-6b5b95?style=for-the-badge)](https://x.com/shyama7004)
-[![GitHub Issues Link](https://img.shields.io/badge/GitHub_Issues:-https://x.com/shyama7004-6b5b95?style=for-the-badge)](https://x.com/shyama7004)
+
+[![GitHub Issues Link](https://img.shields.io/badge/GitHub_Issues:-Issues-6b5b95?style=for-the-badge)](https://github.com/shyama7004/AudioZen/issues)
 
    
