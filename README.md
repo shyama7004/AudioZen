@@ -4,6 +4,13 @@
 
 <h1 align="center">AudioZen</h1>
 
+<div align="center">
+    <a href="https://x.com/shyama7004">
+        <img src="https://img.shields.io/badge/Developer-Shyama7004-8B0000?style=for-the-badge" alt="Developer">
+    </a>
+</div>
+
+
 <p align="center">
   Enhance your audio experience with seamless playback and intuitive controls.
 </p>
