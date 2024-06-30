@@ -62,7 +62,9 @@ This project is licensed under the [MIT License](https://github.com/shyama7004/A
 Have questions, suggestions, or feedback? 
 Reach out to us:
 
-<p>Email: sujatabisoyi@gmail.com</p>
-<p>Twitter: https://x.com/shyama7004</p>
-<p>GitHub Issues: Report a Bug or Request a Feature</p>
+[![Mail](https://img.shields.io/badge/Mail-sujatabisoyi@gmail.com-6b5b95?style=for-the-badge)](sujatabisoyi@gmail.com)
+
+[![Twitter Link](https://img.shields.io/badge/Twitter:-https://x.com/shyama7004-6b5b95?style=for-the-badge)](https://x.com/shyama7004)
+[![GitHub Issues Link](https://img.shields.io/badge/GitHub_Issues:-https://x.com/shyama7004-6b5b95?style=for-the-badge)](https://x.com/shyama7004)
+
    
